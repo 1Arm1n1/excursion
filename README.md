@@ -1,6 +1,9 @@
-#Excursion - Portfolio Project#
+#Excursion - Portfolio Project
+
+
 ##Description
 A simple web page which made out of CSS and HTML. This was a CodeCademy portfolio project designed to consolidate skills and knowledge gained so far in the course. 
+
 
 ##Teachnologies:
 *Git
@@ -10,8 +13,10 @@ A simple web page which made out of CSS and HTML. This was a CodeCademy portfoli
 *HTML
 *CSS
 
+
 ##Launch
 Can be seen in browser with the HTML file.
 
-Status
+
+##Status
 The project is complete.
