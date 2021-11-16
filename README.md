@@ -21,8 +21,10 @@ A simple web page which made out of CSS and HTML. This was a CodeCademy portfoli
 
 
 ##Launch
+
 Can be seen in browser with the HTML file.
 
 
 ##Status
+
 The project is complete.
