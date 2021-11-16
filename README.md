@@ -1,4 +1,4 @@
-#Excursion - Portfolio Project
+#Excursion - Portfolio Project#
 ##Description
 A simple web page which made out of CSS and HTML. This was a CodeCademy portfolio project designed to consolidate skills and knowledge gained so far in the course. 
 
