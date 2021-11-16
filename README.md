@@ -6,11 +6,17 @@ A simple web page which made out of CSS and HTML. This was a CodeCademy portfoli
 
 
 ##Teachnologies:
+
 *Git
+
 *VS Code
+
 *Bash
+
 *Node
+
 *HTML
+
 *CSS
 
 
